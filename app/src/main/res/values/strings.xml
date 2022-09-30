@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Echo App</string>
+    <string name="title_activity_main">Echo App</string>
+    <string name="copyButtonTitle">Copy</string>
+    <string name="copiedText">Yoel D\'s attempt at Echo App HW</string>
+    <string name="textToCopy">Type Text Here</string>
+</resources>
